@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/training_b7a.03.26/Desktop/Ana/Basics of Selenium.zip"/>
+	<classpathentry kind="lib" path="C:/Users/training_b7a.03.26/Downloads/jxl-2.6.jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b7a.03.26/Downloads/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
